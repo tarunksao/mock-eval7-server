@@ -5,7 +5,8 @@
             "id":1,
             "username":"Administrator",
             "email" : "admin@stockbroker.com",
-            "password" : "admin123"
+            "password" : "admin123",
+            "isAdmin":true
         }
     ],
     "companies":[]
