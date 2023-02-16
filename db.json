@@ -1,0 +1,12 @@
+{
+    "default":[],
+    "users":[
+        {
+            "id":1,
+            "username":"Administrator",
+            "email" : "admin@stockbroker.com",
+            "password" : "admin123"
+        }
+    ],
+    "companies":[]
+}
